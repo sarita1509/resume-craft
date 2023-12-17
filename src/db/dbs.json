@@ -1,0 +1,100 @@
+{
+  "api": [
+    { "id": 1,
+      "personalInfo": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@email.com",
+        "phone": "123-456-7890",
+        "address": "123 Main St, Cityville"
+      },
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "major": "Computer Science",
+          "school": "University XYZ",
+          "graduationYear": 2020
+        }
+      ],
+      "experience": [
+        {
+          "title": "Software Engineer",
+          "company": "Tech Solutions Inc.",
+          "location": "City A",
+          "startDate": "2018-01-01",
+          "endDate": "2022-01-01",
+          "responsibilities": [
+            "Developed and maintained web applications.",
+            "Collaborated with cross-functional teams."
+          ]
+        }
+      ],
+      "skills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "certifications": [
+        "AWS Certified Developer",
+        "Scrum Master"
+      ]
+    },
+    {
+      "id": 2,
+      "personalInfo": {
+        "firstName": "Jenny",
+        "lastName": "Doe",
+        "email": "jenny.doe@email.com",
+        "phone": "123-456-7899",
+        "address": "124 Main St, Cityville"
+      },
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "major": "Computer Science",
+          "school": "University XYZ",
+          "graduationYear": 2020
+        }
+      ],
+      "experience": [
+        {
+          "title": "Software Engineer",
+          "company": "Tech Solutions Inc.",
+          "location": "City A",
+          "startDate": "2018-01-01",
+          "endDate": "2022-01-01",
+          "responsibilities": [
+            "Developed and maintained web applications.",
+            "Collaborated with cross-functional teams."
+          ]
+        }
+      ],
+      "skills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "certifications": [
+        "AWS Certified Developer",
+        "Scrum Master"
+      ]
+
+
+
+    }
+
+
+  ]
+}
